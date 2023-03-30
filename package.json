@@ -1,0 +1,12 @@
+{
+  "name": "hyperledgerjavascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@aries-framework/core": "alpha",
+    "@aries-framework/node": "alpha",
+    "qrcode-terminal": "latest",
+    "typescript": "^4.9.5"
+  }
+}
